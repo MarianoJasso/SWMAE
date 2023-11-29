@@ -1,0 +1,3 @@
+**** CREDENCIALES DE USUARIO ADMINISTRADOR ****
+
+Administrador: admin@admin.com - contraadmin
